@@ -1,4 +1,4 @@
-[
+Delete all settings [
 	{"constant":true,"inputs":[],"name":"getMigrationMaster","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"},
 	{"constant":true,"inputs":[{"name":"keyServer","type":"address"}],"name":"getMigrationKeyServerPublic","outputs":[{"name":"","type":"bytes"}],"payable":false,"stateMutability":"view","type":"function"},
 	{"constant":false,"inputs":[{"name":"id","type":"bytes32"}],"name":"startMigration","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},
